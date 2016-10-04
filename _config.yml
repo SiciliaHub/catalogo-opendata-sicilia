@@ -1,15 +1,15 @@
-title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
-baseurl: /jkan
+title: Catalogo OpenData Sicilia
+greeting: Benvenuto sul portale open data di Open Data Sicilia
+description: Catalogo open data di Open Data Sicilia, portale open data basato su JKAN e Jekyll.
+baseurl: /catalogo-opendata-sicilia
 logo: /img/jkan.png
 
 # Site theme
-theme: Default
+theme: minima
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: a9420848a4f1c7647805 
+gatekeeper_host: https://catalogo-opendata-sicilia.herokuapp.com
 
 # Dataset schema
 schema: default
